@@ -9,7 +9,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evanildo-Silva&bg_color=193549&color=75eeb2&line=c577c2&point=0776d8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Evanildo-Silva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evanildo-Silva&bg_color=193549&title_color=e181d5&color=75eeb2&line=c577c2&point=0776d8&area=true&hide_border=true)](https://github.com/Evanildo-Silva/github-readme-activity-graph)
 
 ## Conhecimentos em
 
