@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=255373&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Evanildo+Silva;Sou+desenvolvedor+front-end;E+estudante+de+sistema+de+Informação;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 ##
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Evanildo-Silva&show_icons=true&count_private=true&hide_border=true&title_color=e181d5&icon_color=0776d8&text_color=75eeb2&bg_color=193549" alt="Evanildo Silva github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Evanildo-Silva&show_icons=true&count_private=true&hide_border=true&title_color=e181d5&icon_color=0776d8&text_color=75eeb2&bg_color=193549" alt="Evanildo Silva github status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evanildo-Silva&layout=donut&hide_border=true&title_color=e181d5&text_color=75eeb2&bg_color=193549" />
 </div>
 
