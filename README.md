@@ -1,28 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=255373&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EAD3&height=120&section=header"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFJFbnK4NAUpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351639992?e=1749686400&v=beta&t=L90Gyywezov5oHpj_54iZqmx9VHV_01JkNRZ6Hnec-0"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=255373&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Evanildo+Silva;Sou+desenvolvedor+FullStack;E+estudante+de+sistema+de+Informação;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00EAD3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem-vindo(a)!;Meu+nome+é+Evanildo+Silva;Sou+Desenvolvedor+Full+Stack;E+estudante+de+Sistemas+de+Informação;)](https://git.io/typing-svg)
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Sistema de Informaçao na faculdade Unifatecie.
+- 💼 Trabalhando como Desenvolvedor Full Stack na Rede ICC(Instituto do Câncer do Ceará).
+- 🌱 No momento aprendendo mais sobre Python.
+
+### ⚙️ GitHub Analytics
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Evanildo-Silva&show_icons=true&count_private=true&hide_border=true&title_color=e181d5&icon_color=0776d8&text_color=75eeb2&bg_color=193549" alt="Evanildo Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evanildo-Silva&layout=donut&hide_border=true&title_color=e181d5&text_color=75eeb2&bg_color=193549" />
+  <img width="58%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Evanildo-Silva&show_icons=true&count_private=true&hide_border=true&theme=neon" alt="Evanildo Silva github stats" /> 
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evanildo-Silva&layout=donut&theme=neon&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Evanildo-Silva&theme=neon&hide_border=true" alt="GitHub Streak" />
 </div>
 
-##
+## 🚀 Minhas Skills
 
-[![Evanildo-Silva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evanildo-Silva&bg_color=193549&title_color=e181d5&color=75eeb2&line=c577c2&point=0776d8&area=true&hide_border=true)](https://github.com/Evanildo-Silva/github-readme-activity-graph)
+**Aplicações e dados**
 
-## Conhecimentos em
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss&link=https%3A%2F%2Ftailwindcss.com%2F)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-333333?style=flat&logo=typescript&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Node](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=nodedotjs&link=https%3A%2F%2Fnodejs.org%2Fdocs%2Flatest%2Fapi%2F)
+![Nest](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=rgb(234%2C40%2C76)&link=https%3A%2F%2Fnestjs.com%2F)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-333333?style=flat&logo=springboot&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-333333?style=flat&logo=testinglibrary&link=https%3A%2F%2Ftesting-library.com%2Fdocs%2Freact-testing-library%2Fintro%2F)
+![Postgres](https://img.shields.io/badge/Postgresql-333333?style=flat&logo=postgresql&link=https%3A%2F%2Fwww.postgresql.org%2Fdocs%2F)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-</div>
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Gitlab](https://img.shields.io/badge/gitlab-333333?style=flat&logo=gitlab&link=https%3A%2F%2Fabout.gitlab.com%2F)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ## Contato
 
@@ -32,4 +64,4 @@
   <a href="https://discord.com/channels/@evanildo" target="_blank" ><img alt="twitter" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=255373&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EAD3&height=120&section=footer"/>
