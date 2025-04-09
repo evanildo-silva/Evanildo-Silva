@@ -18,6 +18,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Evanildo-Silva&theme=neon&hide_border=true" alt="GitHub Streak" />
 </div>
 
+[![Evanildo-Silva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evanildo-Silva&bg_color=000&title_color=00ead3&color=ddd49f&line=ff448a&point=00ead3&area=true&hide_border=true)](https://github.com/Evanildo-Silva/github-readme-activity-graph)
+
 ## 🚀 Minhas Skills
 
 **Aplicações e dados**
